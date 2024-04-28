@@ -12,6 +12,7 @@
   "color_schemes": {
   },
   "modifiers": {
+    "csp_extensions": ["worker-src: data:", "script-src: 'unsafe-eval'"]
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
